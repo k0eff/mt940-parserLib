@@ -1,0 +1,24 @@
+[
+	[
+		{
+			"date": "2019-07-01T00:00:00.000Z",
+			"entryDate": "2019-06-28T00:00:00.000Z",
+			"fundsCode": "",
+			"amount": 5,
+			"isReversal": false,
+			"transactionType": "NCHG",
+			"reference": "NONREF",
+			"bankReference": "737MCG0EUR 00001",
+			"extraDetails": "UNICREDIT BULBANK",
+			"currency": "EUR",
+			"details": "808?00�.����� �����.� ����������",
+			"structuredDetails": {
+				"transactionType": "808",
+				"transactionInfo": [
+					"�.����� �����.� ����������"
+				]
+			},
+			"operationType": "debit"
+		}
+	]
+]

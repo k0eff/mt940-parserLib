@@ -1,0 +1,24 @@
+{
+	"name": "mt940-parserlib",
+	"version": "1.0.0",
+	"description": "",
+	"main": "middle-format.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "Krasimir Koeff",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint": "^5.16.0",
+		"eslint-config-ecollect-base": "^0.0.3",
+		"eslint-plugin-import": "^2.17.3"
+	},
+	"dependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^6.2.0",
+		"mongodb": "^3.3.0",
+		"mt940-js": "^0.6.0",
+		"mt940js": "^1.3.2"
+	}
+}

@@ -1,0 +1,108 @@
+[
+	{
+		"transactionReference": "",
+		"relatedReference": "",
+		"accountIdentification": "BG64UNCR70XYZXYZXYZXYZ",
+		"number": {
+			"statement": "5",
+			"sequence": "0",
+			"section": ""
+		},
+		"statementDate": "2019-07-01T00:00:00.000Z",
+		"openingBalanceDate": "2019-07-01T00:00:00.000Z",
+		"closingBalanceDate": "2019-07-01T00:00:00.000Z",
+		"currency": "EUR",
+		"openingBalance": 243,
+		"closingBalance": 242,
+		"transactions": [
+			{
+				"date": "2019-07-01T00:00:00.000Z",
+				"entryDate": "2019-07-01T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": -1,
+				"isReversal": false,
+				"transactionType": "NTRF",
+				"reference": "NONREF",
+				"bankReference": "737FVRO19182354B",
+				"extraDetails": "UNICREDIT BULBANK",
+				"currency": "EUR",
+				"details": "051?00Вътрешнобанков превод FC?20FOREIGN EXCHANGE?30UNCRBGSF?31BG\n08UNCR70001523557004?32COMPANY_NAME LTD",
+				"structuredDetails": {
+					"transactionType": "051",
+					"transactionInfo": [
+						"Вътрешнобанков превод FC",
+						"FOREIGN EXCHANGE"
+					],
+					"bankCode": "UNCRBGSF",
+					"accountNumber": "BG08UNCR70001523557004",
+					"correspondent": "COMPANY_NAME LTD"
+				}
+			}
+		],
+		"closingAvailableBalanceDate": "2019-07-01T00:00:00.000Z",
+		"forwardAvailableBalanceDate": "2019-07-01T00:00:00.000Z",
+		"closingAvailableBalance": 242,
+		"forwardAvailableBalance": 242,
+		"messageBlocks": {
+			"1": {
+				"value": "F01UNCRBGSFAXXX0000000000"
+			},
+			"2": {
+				"value": "I940            N"
+			}
+		}
+	},
+	{
+		"transactionReference": "",
+		"relatedReference": "",
+		"accountIdentification": "BG08UNCR70001523557004",
+		"number": {
+			"statement": "4",
+			"sequence": "0",
+			"section": ""
+		},
+		"statementDate": "2019-07-01T00:00:00.000Z",
+		"openingBalanceDate": "2019-07-01T00:00:00.000Z",
+		"closingBalanceDate": "2019-07-01T00:00:00.000Z",
+		"currency": "BGN",
+		"openingBalance": 229.89,
+		"closingBalance": 231.84,
+		"transactions": [
+			{
+				"date": "2019-07-01T00:00:00.000Z",
+				"entryDate": "2019-07-01T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 1.95,
+				"isReversal": false,
+				"transactionType": "NTRF",
+				"reference": "NONREF",
+				"bankReference": "737FVRO19182354B",
+				"extraDetails": "UNICREDIT BULBANK",
+				"currency": "BGN",
+				"details": "051?00Вътрешнобанков превод FC?20FOREIGN EXCHANGE?30UNCRBGSF?31BG\n64UNCR70001XYZXYZXYZ?32COMPANY_NAME LTD",
+				"structuredDetails": {
+					"transactionType": "051",
+					"transactionInfo": [
+						"Вътрешнобанков превод FC",
+						"FOREIGN EXCHANGE"
+					],
+					"bankCode": "UNCRBGSF",
+					"accountNumber": "BG64UNCR70XYZXYZXYZXYZ",
+					"correspondent": "COMPANY_NAME LTD"
+				}
+			}
+		],
+		"closingAvailableBalanceDate": "2019-07-01T00:00:00.000Z",
+		"forwardAvailableBalanceDate": "2019-07-01T00:00:00.000Z",
+		"closingAvailableBalance": 231.84,
+		"forwardAvailableBalance": 231.84,
+		"messageBlocks": {
+			"1": {
+				"value": "F01UNCRBGSFAXXX0000000000"
+			},
+			"2": {
+				"value": "I940            N"
+			}
+		}
+	}
+]

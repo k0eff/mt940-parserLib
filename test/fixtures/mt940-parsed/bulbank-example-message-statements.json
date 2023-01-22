@@ -1,0 +1,228 @@
+[
+	{
+		"transactionReference": "060731",
+		"relatedReference": "",
+		"accountIdentification": "BG72BFTB76301003010616",
+		"number": {
+			"statement": "147",
+			"sequence": "",
+			"section": ""
+		},
+		"statementDate": "2006-07-31T00:00:00.000Z",
+		"openingBalanceDate": "2006-07-31T00:00:00.000Z",
+		"closingBalanceDate": "2006-07-31T00:00:00.000Z",
+		"currency": "BGN",
+		"openingBalance": 173691.09,
+		"closingBalance": 174789.78,
+		"transactions": [
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 338,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000001",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ПРЕВОД ЗА БУЛБАНК Ф1460004654/26.07.2006\\РЕЗЕРВНИ ЧАСТИ МАШИНИ +21Ф1460004654/26.07.2006 +30BFTBBGSF+31BG42BFTB76301077479705+32ФИРМА1 ООД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ПРЕВОД ЗА БУЛБАНК Ф1460004654/26.07.2006\\РЕЗЕРВНИ ЧАСТИ МАШИНИ"
+					],
+					"transactionDetails": [
+						"Ф1460004654/26.07.2006 "
+					],
+					"bankCode": "BFTBBGSF",
+					"accountNumber": "BG42BFTB76301077479705",
+					"correspondent": "ФИРМА1 ООД"
+				},
+				"operationType": "credit"
+			},
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 99.96,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000002",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ПОЛУЧЕН ПРЕВОД Ф.4483/18.07.06\\ШЛАУХ +21Ф.4483/18.07.06 +30CBUNBGSF+31BG56CBUN91951000024580+32ФИРМА2 АД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ПОЛУЧЕН ПРЕВОД Ф.4483/18.07.06\\ШЛАУХ"
+					],
+					"transactionDetails": [
+						"Ф.4483/18.07.06 "
+					],
+					"bankCode": "CBUNBGSF",
+					"accountNumber": "BG56CBUN91951000024580",
+					"correspondent": "ФИРМА2 АД"
+				},
+				"operationType": "credit"
+			},
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 0.08,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000003",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ПОЛУЧЕН ПРЕВОД Ф РА 1460001409/01022006\\. +21Ф РА 1460001409/01022006 +30UBBSBGSF+31BG49UBBS82211010002018+32ФИРМА2 ООД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ПОЛУЧЕН ПРЕВОД Ф РА 1460001409/01022006\\."
+					],
+					"transactionDetails": [
+						"Ф РА 1460001409/01022006 "
+					],
+					"bankCode": "UBBSBGSF",
+					"accountNumber": "BG49UBBS82211010002018",
+					"correspondent": "ФИРМА2 ООД"
+				},
+				"operationType": "credit"
+			},
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 352.88,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000004",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ПОЛУЧЕН ПРЕВОД Ф 2457/300306\\. +21Ф 2457/300306 +30UBBSBGSF+31BG51UBBS84231010553617+32ФИРМА4 ЕООД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ПОЛУЧЕН ПРЕВОД Ф 2457/300306\\."
+					],
+					"transactionDetails": [
+						"Ф 2457/300306 "
+					],
+					"bankCode": "UBBSBGSF",
+					"accountNumber": "BG51UBBS84231010553617",
+					"correspondent": "ФИРМА4 ЕООД"
+				},
+				"operationType": "credit"
+			},
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 307.77,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000005",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ПОЛУЧЕН ПРЕВОД ПОР.80192890 Ф РИ1460004594 И 4489\\И ДКИ 146000432+21ПОР.80192890 Ф РИ1460004594  И 4489 +30ACBPBG2P+31BG80ACBP75271040345810+32ФИРМА5 АД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ПОЛУЧЕН ПРЕВОД ПОР.80192890 Ф РИ1460004594 И 4489\\И ДКИ 146000432"
+					],
+					"transactionDetails": [
+						"ПОР.80192890 Ф РИ1460004594  И 4489 "
+					],
+					"bankCode": "ACBPBG2P",
+					"accountNumber": "BG80ACBP75271040345810",
+					"correspondent": "ФИРМА5 АД"
+				},
+				"operationType": "credit"
+			}
+		],
+		"closingAvailableBalanceDate": "2006-07-31T00:00:00.000Z",
+		"forwardAvailableBalanceDate": "2006-07-31T00:00:00.000Z",
+		"closingAvailableBalance": 174789.78,
+		"forwardAvailableBalance": 174789.78
+	},
+	{
+		"transactionReference": "060731",
+		"relatedReference": "",
+		"accountIdentification": "BG14BFTB76309099998099",
+		"number": {
+			"statement": "147",
+			"sequence": "",
+			"section": ""
+		},
+		"statementDate": "2006-07-31T00:00:00.000Z",
+		"openingBalanceDate": "2006-07-31T00:00:00.000Z",
+		"closingBalanceDate": "2006-07-31T00:00:00.000Z",
+		"currency": "BGN",
+		"openingBalance": 8691.42,
+		"closingBalance": 8829.6,
+		"transactions": [
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 67.6,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000001",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ЗАВЕРЕНИЕ НА РАЗПЛАЩ. СМЕТКА ПРЕВОД ЗА БУЛБАНК\\Ф.N.14600004654/26+21ПРЕВОД ЗА БУЛБАНК +30BFTBBGSF+31BG81BFTB76309075551050+32ФИРМА4 АД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ЗАВЕРЕНИЕ НА РАЗПЛАЩ. СМЕТКА ПРЕВОД ЗА БУЛБАНК\\Ф.N.14600004654/26"
+					],
+					"transactionDetails": [
+						"ПРЕВОД ЗА БУЛБАНК "
+					],
+					"bankCode": "BFTBBGSF",
+					"accountNumber": "BG81BFTB76309075551050",
+					"correspondent": "ФИРМА4 АД"
+				},
+				"operationType": "credit"
+			},
+			{
+				"date": "2006-07-31T00:00:00.000Z",
+				"entryDate": "2006-07-31T00:00:00.000Z",
+				"fundsCode": "",
+				"amount": 70.58,
+				"isReversal": false,
+				"transactionType": "NMSC",
+				"reference": "",
+				"bankReference": "000002",
+				"extraDetails": "",
+				"currency": "BGN",
+				"details": "TBB+00ПОЛУЧЕН ПРЕВОД Ф 2457/300306\\. +21Ф 2457/300306 +30UBBSBGSF+31BG76UBBS80029065382210+32ФИРМА3 АД",
+				"structuredDetails": {
+					"transactionType": "TBB",
+					"transactionInfo": [
+						"ПОЛУЧЕН ПРЕВОД Ф 2457/300306\\."
+					],
+					"transactionDetails": [
+						"Ф 2457/300306 "
+					],
+					"bankCode": "UBBSBGSF",
+					"accountNumber": "BG76UBBS80029065382210",
+					"correspondent": "ФИРМА3 АД"
+				},
+				"operationType": "credit"
+			}
+		],
+		"closingAvailableBalanceDate": "2006-07-31T00:00:00.000Z",
+		"forwardAvailableBalanceDate": "2006-07-31T00:00:00.000Z",
+		"closingAvailableBalance": 8829.6,
+		"forwardAvailableBalance": 8829.6
+	}
+]
